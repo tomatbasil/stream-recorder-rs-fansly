@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/sn0w12/stream-recorder-rs/refs/heads/main/platforms/schema.json",
     "id": "fansly",
     "name": "Fansly",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "stream_recorder_version": "^0.1",
     "title_clean_regex": [":\\w+:"],
     "base_url": "https://apiv3.fansly.com/api/v1/",
