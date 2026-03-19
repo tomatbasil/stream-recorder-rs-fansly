@@ -26,7 +26,8 @@
         {
             "endpoint": "account?usernames={username}&ngsw-bypass=true",
             "extract": {
-                "user_id": "response[0].id"
+                "user_id": "response[0].id",
+                "avatar_url": "response[0].avatar.variants[0].locations[0].location"
             }
         },
         {
