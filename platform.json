@@ -3,7 +3,7 @@
     "id": "fansly",
     "name": "Fansly",
     "version": "1.0.1",
-    "stream_recorder_version": "^0.1",
+    "stream_recorder_version": ">=0.1",
     "title_clean_regex": [":\\w+:"],
     "base_url": "https://apiv3.fansly.com/api/v1/",
     "token_name": "fansly_token",
